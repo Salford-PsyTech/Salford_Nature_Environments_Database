@@ -9,5 +9,7 @@ For each image, authors also calculated a variety of physical parameters; lumina
 This information is available within the 'Data_ImageLevel_allOutputs' CSV file.
 
 Further information on the procedures, analyses, and results associated with development of the database can be found in:
+
 The OSF preregistration: https://osf.io/sbqg8
+
 Journal article: 
