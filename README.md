@@ -11,5 +11,5 @@ This information is available within the 'Data_ImageLevel_allOutputs' CSV file.
 Further information on the procedures, analyses, and results associated with development of the database can be found in:
 <ul>
 <li>The OSF preregistration: https://osf.io/sbqg8</li>
-<li>Journal article: </li>
+<li>A journal article is currently being submitted - a link to this will be provided here once available. </li>
 </ul>
