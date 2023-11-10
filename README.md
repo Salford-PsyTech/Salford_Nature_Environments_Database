@@ -9,7 +9,7 @@ For each image, authors also calculated a variety of physical parameters; lumina
 This information is available within the 'Data_ImageLevel_allOutputs' CSV file.
 <p></p>
 Links to the original images, details on the image creator and data about the original image size is also provided.
-This information is available within the 'ImagesBook_CollatedImagesData' CSV and xls files. Both files contain perma-links to the original files, while the xls file has working links to the flickr page where Exif  data can be found.
+This information is available within the 'ImagesBook_CollatedImagesData' CSV and xls files. Both files contain perma-links to the original files, while the xls file has working links to the Flickr page where Exif  data can be found.
 <p></p>
 
 Further information on the procedures, analyses, and results associated with development of the database can be found in:
