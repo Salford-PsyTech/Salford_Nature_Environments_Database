@@ -8,6 +8,8 @@ This resulted in a total of 640,267 ratings, with between 154 and 168 ratings pe
 For each image, authors also calculated a variety of physical parameters; luminance, contrast, entropy, CIELAB colourspace values, and fractal dimension.
 This information is available within the 'Data_ImageLevel_allOutputs' CSV file.
 <p></p>
+All of the rated images are contained in the 'Images' folder. Original, unedited versions of the images can be found in the 'Original_Images' folder.
+<p></p>
 Links to the original images, details on the image creator and data about the original image size is also provided.
 This information is available within the 'ImagesBook_CollatedImagesData' CSV and xls files. Both files contain perma-links to the original files, while the xls file has working links to the Flickr page where Exif  data can be found.
 <p></p>
