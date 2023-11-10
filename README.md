@@ -8,6 +8,10 @@ This resulted in a total of 640,267 ratings, with between 154 and 168 ratings pe
 For each image, authors also calculated a variety of physical parameters; luminance, contrast, entropy, CIELAB colourspace values, and fractal dimension.
 This information is available within the 'Data_ImageLevel_allOutputs' CSV file.
 <p></p>
+Links to the original images, details on the image creator and data about the original image size is also provided
+This information is available within the 'ImagesBook_CollatedImagesData' CSV and xls files. Both files contain perma-links to the original files, while the xls file has working links to the flickr page where Exif  data can be found.
+<p></p>
+
 Further information on the procedures, analyses, and results associated with development of the database can be found in:
 <ul>
 <li>The OSF preregistration: https://osf.io/sbqg8</li>
